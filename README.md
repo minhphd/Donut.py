@@ -7,6 +7,6 @@ Python adaptation of the famous donut.c
 ```
 pip3 install numpy
 ```
-3. run main.py and enjoy!
+3. run donut.py and enjoy!
 
 ![](https://github.com/minhphd/Donut.py/blob/main/donut.gif)
